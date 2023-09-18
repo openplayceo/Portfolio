@@ -1,4 +1,4 @@
 # Portfolio
 This repository is used for backing up my work or for portfolio purposes. Unauthorized downloading or copying of the code may cause problems.
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:f2a007,90:0e497d&height=300&text=openplayceo's%20-nl-portfolio&fontSize=35&fontAlign=26&fontAlignY=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:f2a007,90:0e497d&height=300&text=openplayceo's&fontSize=35&fontAlign=26&fontAlignY=50&fontColor=ffffff&text=portfolio)

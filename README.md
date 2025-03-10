@@ -1,6 +1,14 @@
-# Portfolio
-This repository is used for backing up my work or for portfolio purposes.
+## About 이상희
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:f2a007,90:0e497d&height=280&text=openplayceo's&fontSize=30&fontColor=ffffff&fontAlign=20&fontAlignY=50&desc=portfolio&descAlign=27&descAlignY=60)
+저는 3D 아티스트, Unity Technical Artist로 활동하고 있습니다.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=openplayceo&layout=compact)
+<br/>
+
+저의 능력들은 아래에 나열되어 있습니다.
+
++ Unity의 전반적인 활용
++ C# 스크립팅
++ 셰이더 제작 (HLSL, CG, 셰이더 그래프)
++ 3Ds MAX를 사용한 모델링 / 스키닝 / 간단한 애니메이션 제작
++ 2D 텍스쳐 맵 제작
+

@@ -1,6 +1,6 @@
 ## About 이상희
 
-저는 3D 아티스트, Unity Technical Artist로 활동하고 있습니다.
+저는 3D 아티스트, Unity 게임제작 및 Technical Artist로 활동하고 있습니다.
 
 <br/>
 
